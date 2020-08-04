@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/sofb-crawler-boot.iml" filepath="$PROJECT_DIR$/.idea/sofb-crawler-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-boot-example/sofb-crawler-boot-example.iml" filepath="$PROJECT_DIR$/sofb-crawler-boot-example/sofb-crawler-boot-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-boot-starter/sofb-crawler-boot-starter.iml" filepath="$PROJECT_DIR$/sofb-crawler-boot-starter/sofb-crawler-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-boot-starter-component/sofb-crawler-boot-starter-component.iml" filepath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/sofb-crawler-boot-starter-component.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sofb-crawler-boot-starter-processor/sofb-crawler-boot-starter-processor.iml" filepath="$PROJECT_DIR$/sofb-crawler-boot-starter-processor/sofb-crawler-boot-starter-processor.iml" />
+    </modules>
+  </component>
+</project>

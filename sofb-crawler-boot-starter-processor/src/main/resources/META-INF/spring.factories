@@ -1,0 +1,6 @@
+## �Զ�װ��
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.sofb.crawler.boot.starter.processor.config.EnableAutoCrawlerConfig,\
+com.sofb.crawler.boot.starter.processor.config.EnableAutoParseFunction
+
+

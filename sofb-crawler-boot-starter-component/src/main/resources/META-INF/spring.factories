@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.sofb.crawler.boot.starter.component.EnableAutoCrawlerComponent,\
+com.sofb.crawler.boot.starter.component.common.redis.RedisConfig,\
+com.sofb.crawler.boot.starter.component.startspider.StartSpiderConfig

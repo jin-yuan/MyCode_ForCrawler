@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8515c2dd-4164-4aac-9243-15587b372502" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/src/main/java/com/sofb/crawler/boot/starter/component/downloader/FixProxyDownloaderListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/src/main/java/com/sofb/crawler/boot/starter/component/downloader/FixProxyDownloaderListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/src/main/java/com/sofb/crawler/boot/starter/component/gloablelistener/SendMailGlobalListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/src/main/java/com/sofb/crawler/boot/starter/component/gloablelistener/SendMailGlobalListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/src/main/java/com/sofb/crawler/boot/starter/component/schedule/HandlerBackUpItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/sofb-crawler-boot-starter-component/src/main/java/com/sofb/crawler/boot/starter/component/schedule/HandlerBackUpItem.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/BaiduNetdiskDownload/safe/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\BaiduNetdiskDownload\safe\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z48Sb3wFdRPAZvbNAATmxWiBI6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583995765669" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/lib" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3195755" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\sofb-crawler-boot\src\main\resources\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sofb-crawler-boot-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sofb.crawler.boot.example.SpringbootDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8515c2dd-4164-4aac-9243-15587b372502" name="Default Changelist" comment="" />
+      <created>1579399200859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579399200859</updated>
+      <workItem from="1579399202480" duration="1392000" />
+      <workItem from="1580691709181" duration="600000" />
+      <workItem from="1582097079092" duration="822000" />
+      <workItem from="1583984276666" duration="1042000" />
+      <workItem from="1584087008445" duration="2843000" />
+      <workItem from="1584089885843" duration="741000" />
+      <workItem from="1584768490631" duration="757000" />
+      <workItem from="1585201159840" duration="57000" />
+      <workItem from="1585201231759" duration="1196000" />
+      <workItem from="1589362474659" duration="961000" />
+      <workItem from="1596528880242" duration="2526000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="772" y="275" key="#Project_Structure" timestamp="1589362698115">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="772" y="275" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1589362698115" />
+    <state x="1010" y="398" key="FileChooserDialogImpl" timestamp="1596530185997">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="398" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1596530185997" />
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1589362756065">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1589362756065" />
+    <state x="880" y="482" key="com.intellij.ide.util.TipDialog" timestamp="1596528886283">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="880" y="482" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596528886283" />
+  </component>
+</project>
