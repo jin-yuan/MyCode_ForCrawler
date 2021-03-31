@@ -25,7 +25,7 @@
         <sofb.crawler.framework.version>1.0-SNAPSHOT</sofb.crawler.framework.version>
         <sofb.crawler.boot.version>1.0-SNAPSHOT</sofb.crawler.boot.version>
         <cn.wanghaomiao.version>2.2</cn.wanghaomiao.version>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
 
     </properties>
